@@ -1,0 +1,15 @@
+{
+  "name": "auto-send-email",
+  "version": "1.0.0",
+  "description": "定时任务 自动发邮件",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "ccy",
+  "dependencies": {
+    "dayjs": "1.10.7",
+    "node-fetch": "2.6.1",
+    "nodemailer": "6.6.3"
+  }
+}
