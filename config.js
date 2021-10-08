@@ -4,7 +4,7 @@ module.exports = {
   fromDisplaySubText: '每日提醒', // 收件箱展示的次级标题
   user: 'xxx', // 发送者邮箱
   pass: 'xxx', // 发送者邮箱MTP协议密码
-  to: 'xxx', // 发送到谁
+  to: 'xxx', // 发送到谁，填邮箱
   weatherKey: '33369e365fe84eb68876f52a2ae51cca', // 和风天气key
   location: 'xxx',  // 和风天气-成都武侯区的id
   type: '1,3,9', // 和风天气-生活指数type
